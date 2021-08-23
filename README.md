@@ -1,1 +1,1 @@
-# E-Ticket-for-ceinema-hall
+# E-Ticket-for-cinema-hall
